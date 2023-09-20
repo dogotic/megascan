@@ -1,0 +1,3 @@
+/home/scanner/qr_code_scanner/CMakeFiles/rebuild_cache.dir
+/home/scanner/qr_code_scanner/CMakeFiles/edit_cache.dir
+/home/scanner/qr_code_scanner/CMakeFiles/qr_code_scanner.dir
